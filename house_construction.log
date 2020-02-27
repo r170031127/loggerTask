@@ -1,0 +1,7 @@
+2020-02-27 12:17:23 DEBUG Total_cost:12 - Select material Type
+2020-02-27 12:17:23 DEBUG Total_cost:13 - Standard materials : SM
+2020-02-27 12:17:23 DEBUG Total_cost:14 - above Standard materials : ASM
+2020-02-27 12:17:23 DEBUG Total_cost:15 - high standard materialn : HSM
+2020-02-27 12:17:23 DEBUG Total_cost:16 - fully automated home : FAH
+2020-02-27 12:17:31 DEBUG Total_cost:19 - Enter area of house 
+2020-02-27 12:17:38 DEBUG Total_cost:23 - Total cost for House Construction : Rs273600.0
